@@ -9710,11 +9710,27 @@ Handle: RePEc:ijm:journl:v:18:y:2025:i:3:p:132-154
 
 
 Template-Type: ReDIF-Article 1.0
-Author-Name: Mwale Evaristo
-Author-X-Name-First: Mwale
-Author-X-Name-Last: Evaristo
+Author-Name: Matteo G Richiardi
+Author-X-Name-First: Matteo G
+Author-X-Name-Last: Richiardi
+Author-Workplace-Name: University of Essex, United Kingdom
+Author-Email:
+Title: Editorial
+Pages: I-III
+Volume: 19
+Issue: 1
+Year: 2026
+File-URL: https://doi.org/10.34196/ijm.00339
+File-Format: Application/pdf
+Handle: RePEc:ijm:journl:v:19:y:2026:i:1:p:I-III
+
+
+Template-Type: ReDIF-Article 1.0
+Author-Name: Evaristo Mwale
+Author-X-Name-First: Evaristo
+Author-X-Name-Last: Mwale
 Author-Workplace-Name: Department of Economics, University of South Africa, South Africa
-Author-Email: evaristo@unisa.ac.za
+Author-Email:
 Author-Name: Zurika Robinson
 Author-X-Name-First: Zurika
 Author-X-Name-Last: Robinson
@@ -9770,3 +9786,60 @@ Year: 2026
 File-URL: https://doi.org/10.34196/ijm.00335
 File-Format: Application/pdf
 Handle: RePEc:ijm:journl:v:19:y:2026:i:1:p:60-78
+
+
+Template-Type: ReDIF-Article 1.0
+Author-Name: Caroline Strickland
+Author-X-Name-First: Caroline
+Author-X-Name-Last: Strickland
+Author-Workplace-Name: Department of Computer Science, University of Western Ontario, Canada
+Author-Email:
+Author-Name: Brittin Wagner
+Author-X-Name-First: Brittin
+Author-X-Name-Last: Wagner
+Author-Workplace-Name: PointClickCare, 5570 Explorer Drive, Mississauga, Ontario, Canada
+Author-Email:
+Author-Name: Stanley Wang
+Author-X-Name-First: Stanley
+Author-X-Name-Last: Wang
+Author-Workplace-Name: PointClickCare, 5570 Explorer Drive, Mississauga, Ontario, Canada
+Author-Email:
+Author-Name: Daniel J Lizotte
+Author-X-Name-First: Daniel J
+Author-X-Name-Last: Lizotte
+Author-Workplace-Name: Department of Computer Science, University of Western Ontario, Canada; Department of Epidemiology and Biostatistics, University of Western Ontario, London, Ontario, Canada
+Author-Email:
+Title: SNFsim: A Discrete Event Simulator for Decision Support in Skilled Nursing Facilities
+Pages: 79-112
+Volume: 19
+Issue: 1
+Year: 2026
+File-URL: https://doi.org/10.34196/ijm.00337
+File-Format: Application/pdf
+Handle: RePEc:ijm:journl:v:19:y:2026:i:1:p:79-112
+
+
+Template-Type: ReDIF-Article 1.0
+Author-Name: Alfred Afeku
+Author-X-Name-First: Alfred
+Author-X-Name-Last: Afeku
+Author-Workplace-Name: Rural Economy and Development Programme (REDP), Teagasc, Athenry, Ireland
+Author-Email:
+Author-Name: Cathal O'Donoghue
+Author-X-Name-First: Cathal
+Author-X-Name-Last: O'Donoghue
+Author-Workplace-Name: J.E. Cairnes School of Business and Economics, Ireland
+Author-Email:
+Author-Name: Kevin Kilcline
+Author-X-Name-First: Kevin
+Author-X-Name-Last: Kilcline
+Author-Workplace-Name: Rural Economy and Development Programme (REDP), Teagasc, Athenry, Ireland
+Author-Email:
+Title: Economic and Environmental Impact Analysis of Pasture-Based Agriculture: A Review of Economic Modelling Approaches
+Pages: 113-142
+Volume: 19
+Issue: 1
+Year: 2026
+File-URL: https://doi.org/10.34196/ijm.00338
+File-Format: Application/pdf
+Handle: RePEc:ijm:journl:v:19:y:2026:i:1:p:113-142
