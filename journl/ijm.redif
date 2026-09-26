@@ -9843,3 +9843,219 @@ Year: 2026
 File-URL: https://doi.org/10.34196/ijm.00338
 File-Format: Application/pdf
 Handle: RePEc:ijm:journl:v:19:y:2026:i:1:p:113-142
+
+
+Template-Type: ReDIF-Article 1.0
+Author-Name: Matteo G Richiardi
+Author-X-Name-First: Matteo G
+Author-X-Name-Last: Richiardi
+Author-Workplace-Name: University of Essex, United Kingdom
+Author-Email: matteo.richiardi@essex.ac.uk
+Title: Editorial
+Pages: I-III
+Volume: 19
+Issue: 2
+Year: 2026
+File-URL: https://doi.org/10.34196/ijm.00344
+File-Format: Application/pdf
+Handle: RePEc:ijm:journl:v:19:y:2026:i:2:p:I-III
+
+
+Template-Type: ReDIF-Article 1.0
+Author-Name: Ghassan Al-Masbhi
+Author-X-Name-First: Ghassan
+Author-X-Name-Last: Al-Masbhi
+Author-Workplace-Name: University of Galway; BiOrbic SFI Research Centre, Galway, Ireland
+Author-Email: G.Al-Masbhi1@universityofgalway.ie
+Author-Name: Cathal O'Donoghue
+Author-X-Name-First: Cathal
+Author-X-Name-Last: O'Donoghue
+Author-Workplace-Name: University of Galway; BiOrbic SFI Research Centre, Galway, Ireland
+Author-Email:
+Author-Name: Zeynep Gizem Can
+Author-X-Name-First: Zeynep Gizem
+Author-X-Name-Last: Can
+Author-Workplace-Name: University of Galway; BiOrbic SFI Research Centre, Galway, Ireland
+Author-Email:
+Author-Name: Anna Diop-Christensen
+Author-X-Name-First: Anna
+Author-X-Name-Last: Diop-Christensen
+Author-Workplace-Name: University College of Northern Denmark, Hjørring, Denmark
+Author-Email:
+Author-Name: Ana Montes
+Author-X-Name-First: Ana
+Author-X-Name-Last: Montes
+Author-Workplace-Name: Luxembourg Institute of Socio-Economic Research, Esch-sur-Alzette, Luxembourg
+Author-Email:
+Author-Name: Emily Paradowska
+Author-X-Name-First: Emily
+Author-X-Name-Last: Paradowska
+Author-Workplace-Name: Luxembourg Institute of Socio-Economic Research, Esch-sur-Alzette, Luxembourg
+Author-Email:
+Author-Name: Martina Pezer
+Author-X-Name-First: Martina
+Author-X-Name-Last: Pezer
+Author-Workplace-Name: Institute of Public Finance, Zagreb, Croatia
+Author-Email:
+Author-Name: Denisa Sologon
+Author-X-Name-First: Denisa
+Author-X-Name-Last: Sologon
+Author-Workplace-Name: Luxembourg Institute of Socio-Economic Research, Esch-sur-Alzette, Luxembourg
+Author-Email:
+Title: A Comparative Methodological Framework for Evaluating Distributional and Nutritional Effects of Food Carbon Pricing
+Abstract: Food systems contribute significantly to greenhouse gas emissions, but carbon pricing in this sector remains limited and its distributional implications are not well understood. This paper develops a cross-country microsimulation framework that links Life Cycle Assessment (LCA) emissions intensities with Household Budget Survey (HBS) microdata to assess a food carbon tax in seven EU Member States and Türkiye. The model applies a uniform carbon tax to emissions embodied in food purchases, assumes full pass through to consumer prices and holds household quantities fixed. It produces household level outcomes on food expenditure, diet related emissions, caloric cost per kilojoule and the tax burden as a share of income. Results point to small but consistent regressive effects: post tax Gini coefficients increase slightly in all countries, Reynolds–Smolensky indices are negative and Kakwani values indicate a higher relative burden on lower income groups. A sensitivity analysis using alternative EU and global LCA datasets shows that, despite variation in some emission factors, the relative ordering of foods and the distributional patterns remain broadly similar. The framework can be further extended to incorporate behavioural responses, alternative tax designs and broader food system policies.
+Keywords: Microsimulation, Food carbon taxation, Life Cycle Assessment (LCA), Distributional analysis
+Pages: 1-21
+Volume: 19
+Issue: 2
+Year: 2026
+File-URL: https://doi.org/10.34196/ijm.00336
+File-Format: Application/pdf
+Handle: RePEc:ijm:journl:v:19:y:2026:i:2:p:1-21
+
+
+Template-Type: ReDIF-Article 1.0
+Author-Name: Jussi Tervola
+Author-X-Name-First: Jussi
+Author-X-Name-Last: Tervola
+Author-Workplace-Name: Finnish Institute for Health and Welfare (THL), Helsinki, Finland
+Author-Email: jussi.tervola@thl.fi
+Author-Name: Joonas Ollonqvist
+Author-X-Name-First: Joonas
+Author-X-Name-Last: Ollonqvist
+Author-Workplace-Name: Finnish Institute for Health and Welfare (THL), Helsinki, Finland
+Author-Email:
+Title: Refining the simulation of social assistance with monthly income data and calibration
+Abstract: As a last-resort benefit, social assistance can cushion the impact of cuts in other benefits on low-income households. Therefore, it may play a crucial role for the effects of benefit cuts on income distribution. Measurement errors in its simulation can significantly affect the estimated distributional indicators. At the same time, simulating social assistance is challenging because it is influenced by many factors, not all of which are typically observed in the data or captured with an existing simulation model. In this study, we refine the simulation of social assistance in the Finnish static tax-benefit model SISU by considering monthly fluctuations in household income. Moreover, we use regression-based calibration technique to account for oversimulation caused by, among other things, non-take-up and unobserved household wealth. Using the refined simulation model, we estimate that social assistance compensates the substantial cuts to housing and unemployment benefits in Finland 2024-2025 much less than without refinements. Based on the analysis, the reforms would increase the number of recipient households of social assistance by approximately 26,000 households – a substantial downward revision from the pre-refinement estimate of 50,000 households. At the same time, the benefit cuts are estimated to increase at-risk-of-poverty rates and income inequality more than without the refinements. The increase of the child at-risk-of-poverty rate are 60% larger than before refinements. Although demonstrated in a Finnish context, the results underline the importance of accounting both monthly income variation and oversimulation when simulating means-tested benefits also in other contexts.
+Keywords: social assistance, non-take-up, calibration, tax-benefit modelling, monthly data
+Pages: 22-36
+Volume: 19
+Issue: 2
+Year: 2026
+File-URL: https://doi.org/10.34196/ijm.00341
+File-Format: Application/pdf
+Handle: RePEc:ijm:journl:v:19:y:2026:i:2:p:22-36
+
+
+Template-Type: ReDIF-Article 1.0
+Author-Name: Jenny Díaz-Ramírez
+Author-X-Name-First: Jenny
+Author-X-Name-Last: Díaz-Ramírez
+Author-Workplace-Name: Tecnologico de Monterrey, Sustainable Energy Lab. Expedition FEMSA Building, Av. Garza Sada 2501 Sur. CP 64700, Monterrey, Mexico
+Author-Email:
+Author-Name: Erfan Nobil
+Author-X-Name-First: Erfan
+Author-X-Name-Last: Nobil
+Author-Workplace-Name: Universidad de las Américas Puebla, Puebla de Zaragoza, Puebla, Mexico
+Author-Email:
+Author-Name: Juan Alberto Estrada-García
+Author-X-Name-First: Juan Alberto
+Author-X-Name-Last: Estrada-García
+Author-Workplace-Name: University of Michigan at Ann Arbor, Michigan, United States
+Author-Email:
+Author-Name: Jesús Adrián Martínez-Hernández
+Author-X-Name-First: Jesús Adrián
+Author-X-Name-Last: Martínez-Hernández
+Author-Workplace-Name: Western University, London, Ontario, Canada
+Author-Email:
+Author-Name: Jose Ignacio Huertas
+Author-X-Name-First: Jose Ignacio
+Author-X-Name-Last: Huertas
+Author-Workplace-Name: Tecnologico de Monterrey, Sustainable Energy Lab. Expedition FEMSA Building, Av. Garza Sada 2501 Sur. CP 64700, Monterrey, Mexico
+Author-Email: jhuertas@tec.mx
+Title: Methodological Foundations of the Traffic Simulation Process
+Abstract: There is an urgent need to design and evaluate strategies that improve the mobility of people and goods in urban regions while reducing energy consumption and vehicular emissions. Traffic simulation is an increasingly powerful tool to address this challenge; however, it requires extensive input data and involves multiple steps and decisions, which can make the process complex. This paper provides researchers and practitioners with a comprehensive methodological framework for modeling and simulating urban traffic, along with key insights and practical recommendations. These contributions are grounded in both the literature and the authors’ experience across multiple traffic simulation applications, enabling the paper to offer guidelines that facilitate the implementation of urban traffic simulation while identifying areas that warrant further research. Unlike previous reviews, this study synthesizes practical lessons from real-world microsimulation projects and integrates methodological guidance applicable across different simulation scales.
+Keywords: smart mobility, activity-based modeling, transportation planning, urban traffic modeling, microsimulation
+Pages: 37-69
+Volume: 19
+Issue: 2
+Year: 2026
+File-URL: https://doi.org/10.34196/ijm.00342
+File-Format: Application/pdf
+Handle: RePEc:ijm:journl:v:19:y:2026:i:2:p:37-69
+
+
+Template-Type: ReDIF-Article 1.0
+Author-Name: Shrathinth Venkatesh
+Author-X-Name-First: Shrathinth
+Author-X-Name-Last: Venkatesh
+Author-Workplace-Name: Centre for Health Economics, University of York, Heslington, York, United Kingdom
+Author-Email: shrathinth.venkatesh@york.ac.uk
+Author-Name: Ieva Skarda
+Author-X-Name-First: Ieva
+Author-X-Name-Last: Skarda
+Author-Workplace-Name: Centre for Health Economics, University of York, Heslington, York, United Kingdom
+Author-Email:
+Author-Name: Aase Villadsen
+Author-X-Name-First: Aase
+Author-X-Name-Last: Villadsen
+Author-Workplace-Name: Centre for Longitudinal Studies, Social Research Institute, University College London, London, United Kingdom
+Author-Email:
+Author-Name: Miqdad Asaria
+Author-X-Name-First: Miqdad
+Author-X-Name-Last: Asaria
+Author-Workplace-Name:
+Author-Email:
+Author-Name: Jan R Boehnke
+Author-X-Name-First: Jan R
+Author-X-Name-Last: Boehnke
+Author-Workplace-Name: School of Health Sciences, University of Dundee, Dundee, United Kingdom
+Author-Email:
+Author-Name: Alan Brennan
+Author-X-Name-First: Alan
+Author-X-Name-Last: Brennan
+Author-Workplace-Name: School of Medicine and Population Health, University of Sheffield, Sheffield, United Kingdom
+Author-Email:
+Author-Name: Christian Krekel
+Author-X-Name-First: Christian
+Author-X-Name-Last: Krekel
+Author-Workplace-Name:
+Author-Email:
+Author-Name: Mark Mon-Williams
+Author-X-Name-First: Mark
+Author-X-Name-Last: Mon-Williams
+Author-Workplace-Name: School of Psychology, University of Leeds, Leeds, United Kingdom
+Author-Email:
+Author-Name: George Ploubidis
+Author-X-Name-First: George
+Author-X-Name-Last: Ploubidis
+Author-Workplace-Name: Social Research Institute, University College London, London, United Kingdom
+Author-Email:
+Author-Name: Paul A Tiffin
+Author-X-Name-First: Paul A
+Author-X-Name-Last: Tiffin
+Author-Workplace-Name: The Hull York Medical School, University of York, Heslington, York, United Kingdom
+Author-Email:
+Author-Name: Richard Cookson
+Author-X-Name-First: Richard
+Author-X-Name-Last: Cookson
+Author-Workplace-Name: Centre for Health Economics, University of York, Heslington, York, United Kingdom
+Author-Email:
+Title: LifeSim Childhood: Extrapolating Intervention Effects and Public Cost Savings from Birth to Adolescence in the UK
+Abstract: Economic evaluation of early childhood interventions is challenging because it is hard to extrapolate the full range of long-term benefits and public cost savings from short-term effectiveness evidence. One way to address this issue is through the use of microsimulation. This paper introduces a closed birth cohort childhood microsimulation model, LifeSim Childhood, that is capable of extrapolating the long-term effects of various childhood circumstances on a broad range of health, educational, and social outcomes and public cost savings up to age 17 in the UK. We use regression-based long-jump microsimulation that simulates outcomes at each age directly from total-effect parameters estimated using bespoke longitudinal birth-cohort regressions, without tracing indirect mediating pathways. The aims of this paper are to describe the general modelling approach and methods underpinning LifeSim Childhood, to present a simple illustration of how the model can be used to simulate the effects of reducing early childhood poverty, and to compare our illustrative results with estimates from quasi-experimental studies. We use data from the Millennium Cohort Study which follows children born in the UK around the year 2000. We focus on exposure–outcome relationships that can be plausibly interpreted as causal based on interdisciplinary theory and evidence, and estimate total effects conditional on an explicitly justified set of confounding variables. As well as describing our data inputs, regression analysis methods and simulation methods, we apply the model to four hypothetical income-shifting scenarios in early childhood and estimate the general magnitude of long-term public cost savings and wellbeing benefits, alongside a battery of more specific outcomes.
+Keywords: Childhood, Early Years, Microsimulation, Long Term Effects, Wellbeing, Public Costs
+Pages: 70-111
+Volume: 19
+Issue: 2
+Year: 2026
+File-URL: https://doi.org/10.34196/ijm.00343
+File-Format: Application/pdf
+Handle: RePEc:ijm:journl:v:19:y:2026:i:2:p:70-111
+
+
+Template-Type: ReDIF-Article 1.0
+Author-Name: Philippe Liégeois
+Author-X-Name-First: Philippe
+Author-X-Name-Last: Liégeois
+Author-Workplace-Name: Luxembourg Institute of Socio-Economic Research/LISER, 4366 Belval Esch-sur-Alzette, Luxembourg
+Author-Email: Philippe.Liegeois-ext@liser.lu
+Title: Alternatives for Financing Social Security in Luxembourg by Resident and Cross-Border Households
+Abstract: Given the rapidly evolving structural socio-demographic determinants in Luxembourg (ageing, migrations, cross-border households) and social needs induced, the concern about the funding of the Luxembourg social security system is high on the agenda. This concern could become even more pressing over time, given Luxembourg’s specificity in several respects. According to the 2024 Ageing Report of the EPC’s Ageing Working Group, Luxembourg might face an increase of age-related expenditure from 17.2% of GDP in 2022 to 27.9% in 2070, mostly due to pensions (+ 8.3% of GDP over the period). This is the biggest increase expected in EU-countries, a first particularity for Luxembourg. A second specificity is the importance of cross-border commuters in the Luxembourg economy. These represent 43% of total employment in 2022. Given such a context, the country’s social players are looking for avenues of reflection for future concrete proposals. This paper precisely aims to contribute to such a debate. It examines day-after impact of hypothetical parametric changes in social contributions and personal income taxes (the “alternatives”) on the distribution of household disposable income and total public financial receipts from these sources for Luxembourg. Moreover and given the importance of cross-border commuters for the country, we need a microsimulation modelling −EUROMOD-based− covering both residents and cross-border commuters’ households, the latter population involving an essential innovative extension to previous assessments. We emphasize the structural discrepancies between residents and cross-border households in terms of socio-economic status as well as regarding gross labor and taxable income. Consequently, we show that total receipts from residents are greater than those from cross-border households, even when controlling for population size. Next, we examine 42 alternatives based on the concerns of a key Luxembourg social partner in the context of an ongoing public debate. This examination takes into account the values achieved for a triplet of standard indicators chosen for their simplicity and acceptability to a broad public, and this within the framework of an independent external expertise: total revenues (cross-border households included), the inequality Gini coefficient and the poverty rate (the latter two for the resident population only). We then complete our detailed overview with an evaluation of each alternative according to the selected dimensions altogether. Finally, we evoke a basic “Global Performance Index” which may enlighten conclusions derived from a one or two-dimensional analysis. Although the analysis is specific to Luxembourg, the policy alternatives and methodology considered here may also be relevant for other countries with comparable socio-economic fundamentals, particularly in the context of the EU-wide concern regarding the fiscal implications of population ageing.
+Keywords: static microsimulation, cross-border households, EUROMOD, HFCS data, Comparison of socio-fiscal policies, Luxembourg
+Pages: 112-138
+Volume: 19
+Issue: 2
+Year: 2026
+File-URL: https://doi.org/10.34196/ijm.00340
+File-Format: Application/pdf
+Handle: RePEc:ijm:journl:v:19:y:2026:i:2:p:112-138
